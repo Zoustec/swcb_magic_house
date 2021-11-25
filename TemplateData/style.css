@@ -36,4 +36,4 @@ body { padding: 0; margin: 0 }
     font-weight: bold;
   }
 
-  #ar-video { display: none; }
+  #ar-video { width: 400px; height: 400px; }
