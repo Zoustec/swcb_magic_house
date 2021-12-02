@@ -120,43 +120,32 @@
         <span class="loading-text">讀取中，請稍後</span>
     </div>
     <script>
-      var video = document.getElementById( 'ar-video' );
-      var loading = document.getElementById( 'loading' );
-      var currentIndex;
-      var isARInit = false;
-      var isPause = false;
-
+      const video = document.getElementById( 'ar-video' );
+      const loading = document.getElementById( 'loading' );
+	  const hint = {
+        audio: false,
+        video: {
+          facingMode: 'environment',
+          //width: { ideal: 640 },
+          //height: { ideal: 480 },
+        },
+      };
+      let currentIndex;
+      let isARInit = false;
+      let isARPause = false;
+  
       window.addEventListener('startAR', startAR);
-      window.addEventListener('resumeAR', stopAR);
+      window.addEventListener('stopAR', pauseAR);
 
       function startAR() {
-        if (isARInit) {
-          isPause=false;
-		  video.style.display = "block";
-          video.play();
-        }
-        else {
-          if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-            var hint = {
-              audio: false,
-              //video: true,
-              video: {
-                facingMode: 'environment',
-                //width: { ideal: 640 },
-                //height: { ideal: 480 },
-              },
-            };
-            isARInit = true;
-            navigator.mediaDevices.getUserMedia( hint ).then( function( stream ) {
-            loading.style.display="flex";
-            video.srcObject = stream;
-            video.addEventListener( 'loadedmetadata', function() {
-              video.play();
-              var arController = new ARController(320, 240, 'Data/camera_para.dat');
-              arController.onload = function() {
-                var video = document.getElementById('ar-video');
-
-                arController.addEventListener('getNFTMarker', function (ev) {
+	    if (!isARInit) {
+          video.addEventListener( 'loadedmetadata', function() {
+            video.play();
+		    if (!window.arController) {
+			  loading.style.display="flex";
+              window.arController = new ARController(320, 240, 'Data/camera_para.dat');
+              window.arController.onload = function() {
+                window.arController.addEventListener('getNFTMarker', function (ev) {
                   if (currentIndex != ev.data.index) {
                     //window.alert( 'get mark ' + ev.data.index );
                     globalUnityInstance.SendMessage('ARCanvas', 'FoundMarker', ev.data.index);
@@ -164,37 +153,51 @@
                   }       
                 });
       
-	            arController.addEventListener('lostNFTMarker', function (ev) {
+	            window.arController.addEventListener('lostNFTMarker', function (ev) {
                   if (currentIndex == ev.data.index) {
                     globalUnityInstance.SendMessage('ARCanvas', 'FoundMarker', -1);
                     currentIndex = ev.data.index;
                   }       
                 });
-                arController.loadNFTMarkers(['DataNFT/elf', 'DataNFT/well', 'DataNFT/tree','DataNFT/slope'], function (markerId) {
+				
+                window.arController.loadNFTMarkers(['DataNFT/elf', 'DataNFT/well', 'DataNFT/tree','DataNFT/slope'], function (markerId) {
                   arController.trackNFTMarkerId(markerId, 2);
                   console.log("loadNFTMarker -> ", markerId);
                   loading.style.display="none";
                 });
+                  
+			    if (!window.arInternal) {
+                  window.arInterval = setInterval(function() {
+                    if (!isARPause)
+				    {
+                      window.arController.process(video);
+                    }
+                  }, 10);
+			    }
+			  }
+            }
+          })
+		}
 
-                interval = setInterval(function() {
-                  if (!isPause)
-				  {
-                    arController.process(video);
-				  }
-                }, 10);
-              };
-            });
+	    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+          navigator.mediaDevices.getUserMedia( hint ).then( function( stream ) {
+            video.srcObject = stream;
+
+		    isARInit = true;
           }).catch( function ( err ) {
             window.alert('相機初始化錯誤');
           });
-          }
         }
-      };
+      }
 
-      function stopAR() {
+      function pauseAR() {
+	    console.log("stopAR");
         isPause=true;
+	    if (video.srcObject) {
+		  video.srcObject.getTracks().forEach( (track) => { track.stop(); });
+		}
         video.pause();
-      };
+      }
       </script>
   </body>
 </html>
