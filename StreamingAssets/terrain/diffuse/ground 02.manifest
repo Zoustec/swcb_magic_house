@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3756755353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07de8022155d248df2a2faac0c5153fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b1b996afefcdb43727f3042384e65d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Terrains/TerrianLayers/Grounds 02.terrainlayer
+- Assets/Ground textures pack/Ground 02/diffuse.tga
+Dependencies: []

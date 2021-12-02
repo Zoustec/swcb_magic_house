@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 816542755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da065af5e8ef54406ae23a94aa9664fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 279d16368b6cb3268de9f0bb092cbb2c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Level 3/plumtree/PlumTree.fbx
+- Assets/Models/Level 3/plumtree/PT_Tree_Trunk_red.png
+- Assets/Models/Level 3/plumtree/plumtree.mat
+- Assets/Prefabs/Level 3/PlumTree.prefab
+Dependencies:
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/trees/fruit_tree

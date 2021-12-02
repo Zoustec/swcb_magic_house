@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 293841444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9679eebe46e396eba501a0ca41b6cb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fantasy Skybox FREE/Scenes/Brush_Grass_01.png
+Dependencies: []

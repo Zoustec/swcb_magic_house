@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3453188742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f650996ee8f020ee4f629e109b41dba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 279d16368b6cb3268de9f0bb092cbb2c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Fruit_Tree_Foliage_Mat.mat
+- Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Textures/PT_Fruit_Tree_Leaves_01.png
+- Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_apples.fbx
+- Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Trees/PT_Fruit_Tree_01_green.fbx
+Dependencies:
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/pt_tree_trunk

@@ -1,0 +1,242 @@
+ManifestFileVersion: 0
+CRC: 4187356790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 762e1ca8236d3f82cccdbe72fcd0a064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2c7a299fccf5e886c3b0736824339aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a98125502f715b4b83cfb77b434e436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a0bbe22c246e4c78ad8e9816cbae9d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca6e525df6704974fb5200feb0106679, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67d21ade02d6a0e4a813c6c714379bc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cbf240ac6442144f90a023c1b64d868, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e501d18bb52cf8c40b1853ca4904654f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36baaa8bdcb9d8b49b9199833965d2c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a7ebb5b6c89f17419591cd677e58e75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee8371d2b2fe14a9ca0a9465140027de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d38c2197e5e01b34c8612f41497460be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c692950970ebc5e45a4c3c2a6973d99c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6b2b78149840dd4699653bb5280d806, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf0fbe0a1954927448224354d7b37d18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee63e642958494f1ebed8116ae4b1103, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a676940fce6344af1a70043b089a6c14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d2f50a8e0bb841a5aaa90ae55db8849, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a334fe2ffb574b3583ff3b18b4792d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43b85556abd314f3f870c18c013fdcef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3571b686fc1aad941a9f85666d68e02f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa3cb65b21898b544811f256ecf3851c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4782cf42f2644447b9631f6e522160b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c77e0af7c94ae4548b18fde83ed492be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3da2148c784340a4ab4854e77d1a3af1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 826b6d3b63f794d499bfd57e90e7b361, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3315ad2ebb85443909a1203d56d9344e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4c215b01fc86d24e8c40f4f58257c2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f8bbf830f45abd40bb95a0055fdd220, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f1749fe52743914caca0f2bb8fcdb2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d49b7c1bcd2e07499844da127be038d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Level 1.unity
+Dependencies:
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/character/lele
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/character/waterfairy
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/fs017_day
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/lighting settings
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/prefabs/common_ui
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/pt_tree_trunk
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/rhef_rock
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/common avator
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/commonui
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/level 1
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/detail/brush_grass_01
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/diffuse/grass0026
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/diffuse/ground
+  & rocks 01
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/diffuse/ground
+  02
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/trees/fruit_tree
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/vo/common
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/vo/level 1
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/water
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/water_splash

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3570452372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c20a4f5d5ad1410308c7c9f2b0626ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a62dab88164372db9ca72057f98cb25c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Level 3 (High).asset
+- Assets/Terrains/Level 3 (Low).asset
+Dependencies:
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/detail/brush_flower
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/detail/brush_grass_01
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/diffuse/grass0026
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/diffuse/grounds
+  03
+- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/terrain/trees/fruit_tree

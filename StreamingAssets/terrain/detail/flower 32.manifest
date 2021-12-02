@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3471431859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba52abd1d8336ffa607926b4feb9d65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Grass And Flowers Pack 1/Flower/Flower 32.png
+Dependencies: []

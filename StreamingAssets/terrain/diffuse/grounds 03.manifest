@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2482484709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9ebb928067ceb501f44aad1634ef50b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b1b996afefcdb43727f3042384e65d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FantasyEnvironments/Environments/Textures/ground_road.tga
+- Assets/Terrains/TerrianLayers/Grounds 03.terrainlayer
+Dependencies: []

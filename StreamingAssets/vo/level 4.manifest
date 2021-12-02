@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1597520099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c31254a98107f5401f4b4cc4f8a1bee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Audios/VO/E-1/e12\uFF08\u5E7C\u9F61\u7248\uFF09.mp3"
+- Assets/Audios/VO/E-1/e7.mp3
+- Assets/Audios/VO/E-1/e8.mp3
+- Assets/Audios/VO/E-1/e9.mp3
+- Assets/Audios/VO/E-1/e5.mp3
+- Assets/Audios/VO/E-1/e3.mp3
+- Assets/Audios/VO/F-1/f2.mp3
+- Assets/Audios/VO/F-1/f1.mp3
+- Assets/Audios/VO/E-1/e12.mp3
+- Assets/Audios/VO/E-1/e10.mp3
+- Assets/Audios/VO/E-1/e6.mp3
+- Assets/Audios/VO/E-1/e4.mp3
+- Assets/Audios/VO/E-1/e1.mp3
+- Assets/Audios/VO/E-1/e11.mp3
+- Assets/Audios/VO/E-1/e13.mp3
+- Assets/Audios/VO/F-1/f3.mp3
+- Assets/Audios/VO/E-1/e15.mp3
+- Assets/Audios/VO/E-1/e14.mp3
+- "Assets/Audios/VO/E-1/e15\uFF08\u5E7C\u9F61\u7248\uFF09.mp3"
+- Assets/Audios/VO/E-1/e2.mp3
+Dependencies: []

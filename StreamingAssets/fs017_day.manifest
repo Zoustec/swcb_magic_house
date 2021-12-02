@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2983256864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a9dd39fe019eba3b1bd7d42a0fca8ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93bd442b8167f85f0de1ddd2c5f516d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day.png
+- Assets/Fantasy Skybox FREE/Materials/FS017/FS017_Day.mat
+Dependencies: []

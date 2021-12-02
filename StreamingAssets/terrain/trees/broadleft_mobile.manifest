@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 4121177937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed7c7a10da9b0cc6368672d9a59b0bd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73c1f203d3311b61b617c1c06599e5bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 226
+  Script: {instanceID: 0}
+- Class: 227
+  Script: {instanceID: 0}
+- Class: 228
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Branches_0.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/Billboard.mat
+- Assets/Free_SpeedTrees/BroadleafBark_Normal.tga
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Branches_0.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile_Atlas.tga
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards_Normal.tga
+- Assets/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Billboards.tga
+- Assets/Free_SpeedTrees/Broadleaf_Mobile.spm
+- Assets/Free_SpeedTrees/BroadleafBark.tga
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile Materials/LOD0/Branches_0.mat
+- Assets/Free_SpeedTrees/Broadleaf_Mobile_Atlas_Normal.tga
+Dependencies: []

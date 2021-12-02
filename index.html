@@ -13,12 +13,21 @@
   <body>
     <script async src="js/artoolkit.min.js"></script>
     <div id="unity-container" class="unity-desktop">
+	  <video
+        loop
+        autoplay
+        muted
+		playsinline
+        id="ar-video"
+      >
+      </video>
       <canvas id="unity-canvas" width=960 height=600></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
           <div id="unity-progress-bar-full"></div>
         </div>
+		
       </div>
       <div id="unity-warning"> </div>
       <div id="unity-footer">
@@ -110,13 +119,6 @@
     <div id="loading" style="display: none;">
         <span class="loading-text">讀取中，請稍後</span>
     </div>
-	<video
-        loop
-        autoplay
-        muted
-		playsinline
-        id="ar-video">
-    </video>
     <script>
       var video = document.getElementById( 'ar-video' );
       var loading = document.getElementById( 'loading' );
@@ -130,6 +132,7 @@
       function startAR() {
         if (isARInit) {
           isPause=false;
+		  video.style.display = "block";
           video.play();
         }
         else {
