@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3547801019
+CRC: 2632391061
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b909144cbaff2153c9b7c7e8e7f2ffb4
+    Hash: e77ee7fab26410e38ec7f6010f34b684
   TypeTreeHash:
     serializedVersion: 2
-    Hash: da71a8d3fcab35497e61f6a755f7c844
+    Hash: d26613665579dd19af59b7e73bf96711
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,11 +54,15 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
 - Class: 114
@@ -87,10 +91,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3a7ebb5b6c89f17419591cd677e58e75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ee8371d2b2fe14a9ca0a9465140027de, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d38c2197e5e01b34c8612f41497460be, type: 3}
 - Class: 114
@@ -157,8 +157,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b097b9790a8a1456a86bc4d322b487db, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3315ad2ebb85443909a1203d56d9344e, type: 3}
 - Class: 114
@@ -227,7 +225,6 @@ Dependencies:
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/lighting settings
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/prefabs/common_ui
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/pt_tree_trunk
-- D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/rhef_rock
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/common avator
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/commonui
 - D:/LarryWorkSpace/Projects/swcb_magic_house/AssetBundles/WebGL/sprites/level 1

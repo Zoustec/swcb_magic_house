@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 721771755
+CRC: 402831543
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,11 +19,10 @@ AssetBundleManifest:
         Dependency_11: lighting settings
         Dependency_12: water_splash
         Dependency_13: water
-        Dependency_14: rhef_rock
-        Dependency_15: vo/level 1
-        Dependency_16: pt_tree_trunk
-        Dependency_17: vo/common
-        Dependency_18: terrain/trees/fruit_tree
+        Dependency_14: vo/level 1
+        Dependency_15: pt_tree_trunk
+        Dependency_16: vo/common
+        Dependency_17: terrain/trees/fruit_tree
     Info_1:
       Name: level 3
       Dependencies:
