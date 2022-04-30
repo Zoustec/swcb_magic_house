@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2496163515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b334002406fa25274bb0a2e49672b24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audios/VO/B-1/b13.mp3
+- Assets/Audios/VO/C-1/c16.mp3
+- Assets/Audios/VO/C-1/c8.mp3
+- Assets/Audios/VO/C-1/c5.mp3
+- Assets/Audios/VO/C-1/c10.mp3
+- Assets/Audios/VO/C-1/c2.mp3
+- Assets/Audios/VO/C-1/c3.mp3
+- Assets/Audios/VO/C-1/c4.mp3
+- Assets/Audios/VO/C-1/c24.mp3
+- Assets/Audios/VO/C-1/c19.mp3
+- Assets/Audios/VO/C-1/c6.mp3
+- Assets/Audios/VO/C-1/c24_1.mp3
+- Assets/Audios/VO/C-1/c12.mp3
+- Assets/Audios/VO/C-1/c22.mp3
+- Assets/Audios/VO/B-1/b12.mp3
+- Assets/Audios/VO/C-1/c13.mp3
+- Assets/Audios/VO/C-1/c17.mp3
+- Assets/Audios/VO/C-1/c20.mp3
+- Assets/Audios/VO/C-1/c18.mp3
+- Assets/Audios/VO/C-1/c9.mp3
+- Assets/Audios/VO/C-1/c7.mp3
+- Assets/Audios/VO/C-1/c11.mp3
+- Assets/Audios/VO/C-1/c14.mp3
+- Assets/Audios/VO/B-1/b14.mp3
+- Assets/Audios/VO/C-1/c21.mp3
+- Assets/Audios/VO/C-1/c23.mp3
+- Assets/Audios/VO/C-1/c15.mp3
+- Assets/Audios/VO/C-1/c1.mp3
+Dependencies: []

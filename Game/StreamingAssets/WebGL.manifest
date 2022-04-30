@@ -1,0 +1,211 @@
+ManifestFileVersion: 0
+CRC: 3459724765
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: vo/level 3
+      Dependencies: {}
+    Info_1:
+      Name: font
+      Dependencies: {}
+    Info_2:
+      Name: sprites/commonui
+      Dependencies: {}
+    Info_3:
+      Name: rhef_rock
+      Dependencies: {}
+    Info_4:
+      Name: lighting settings
+      Dependencies: {}
+    Info_5:
+      Name: vo/level 2
+      Dependencies: {}
+    Info_6:
+      Name: water_splash
+      Dependencies: {}
+    Info_7:
+      Name: prefabs/common_ui
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: sprites/commonui
+        Dependency_2: sprites/common avator
+        Dependency_3: sprites/global_ui
+    Info_8:
+      Name: character/lele
+      Dependencies: {}
+    Info_9:
+      Name: vo/level 4
+      Dependencies: {}
+    Info_10:
+      Name: terrain/trees/broadleft_mobile
+      Dependencies: {}
+    Info_11:
+      Name: level 2
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: sprites/commonui
+        Dependency_2: rhef_rock
+        Dependency_3: lighting settings
+        Dependency_4: vo/level 2
+        Dependency_5: water_splash
+        Dependency_6: prefabs/common_ui
+        Dependency_7: character/lele
+        Dependency_8: sprites/common avator
+        Dependency_9: character/waterfairy
+        Dependency_10: fs017_day
+        Dependency_11: water
+        Dependency_12: wellprops
+        Dependency_13: terrain/diffuse/ground 02
+        Dependency_14: terrain/trees/fruit_tree
+        Dependency_15: sprites/global_ui
+        Dependency_16: terrain/detail/brush_grass_01
+        Dependency_17: terrain/diffuse/grass0026
+        Dependency_18: terrain/detail/brush_flower
+    Info_12:
+      Name: sprites/common avator
+      Dependencies: {}
+    Info_13:
+      Name: sprites/level 4
+      Dependencies: {}
+    Info_14:
+      Name: rocks/rock_medium
+      Dependencies: {}
+    Info_15:
+      Name: character/waterfairy
+      Dependencies:
+        Dependency_0: character/lele
+    Info_16:
+      Name: vo/ending
+      Dependencies: {}
+    Info_17:
+      Name: terrain/trees/plum_tree
+      Dependencies:
+        Dependency_0: terrain/trees/fruit_tree
+    Info_18:
+      Name: vo/level 1
+      Dependencies: {}
+    Info_19:
+      Name: sprites/level 3
+      Dependencies: {}
+    Info_20:
+      Name: fs017_day
+      Dependencies: {}
+    Info_21:
+      Name: terrain/diffuse/ground & rocks 01
+      Dependencies: {}
+    Info_22:
+      Name: pt_tree_trunk
+      Dependencies: {}
+    Info_23:
+      Name: water
+      Dependencies: {}
+    Info_24:
+      Name: sprites/level 1
+      Dependencies: {}
+    Info_25:
+      Name: vo/common
+      Dependencies: {}
+    Info_26:
+      Name: terrain/terrain_data
+      Dependencies:
+        Dependency_0: terrain/trees/fruit_tree
+        Dependency_1: terrain/detail/brush_grass_01
+        Dependency_2: terrain/diffuse/grounds 03
+        Dependency_3: terrain/diffuse/grass0026
+        Dependency_4: terrain/detail/brush_flower
+    Info_27:
+      Name: wellprops
+      Dependencies: {}
+    Info_28:
+      Name: ending
+      Dependencies:
+        Dependency_0: lighting settings
+        Dependency_1: prefabs/common_ui
+        Dependency_2: character/lele
+        Dependency_3: sprites/common avator
+        Dependency_4: character/waterfairy
+        Dependency_5: vo/ending
+        Dependency_6: terrain/trees/plum_tree
+        Dependency_7: fs017_day
+        Dependency_8: terrain/terrain_data
+        Dependency_9: terrain/detail/brush_grass_01
+        Dependency_10: terrain/diffuse/grounds 03
+        Dependency_11: terrain/diffuse/grass0026
+    Info_29:
+      Name: terrain/diffuse/ground 02
+      Dependencies: {}
+    Info_30:
+      Name: terrain/trees/fruit_tree
+      Dependencies:
+        Dependency_0: pt_tree_trunk
+    Info_31:
+      Name: sprites/global_ui
+      Dependencies: {}
+    Info_32:
+      Name: terrain/detail/brush_grass_01
+      Dependencies: {}
+    Info_33:
+      Name: terrain/diffuse/grounds 03
+      Dependencies: {}
+    Info_34:
+      Name: terrain/detail/flower 32
+      Dependencies: {}
+    Info_35:
+      Name: terrain/diffuse/grass0026
+      Dependencies: {}
+    Info_36:
+      Name: level 4
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: lighting settings
+        Dependency_2: prefabs/common_ui
+        Dependency_3: vo/level 4
+        Dependency_4: terrain/trees/broadleft_mobile
+        Dependency_5: sprites/common avator
+        Dependency_6: sprites/level 4
+        Dependency_7: terrain/diffuse/ground & rocks 01
+        Dependency_8: vo/common
+        Dependency_9: wellprops
+        Dependency_10: terrain/detail/brush_grass_01
+        Dependency_11: terrain/diffuse/grass0026
+    Info_37:
+      Name: level 1
+      Dependencies:
+        Dependency_0: sprites/commonui
+        Dependency_1: lighting settings
+        Dependency_2: water_splash
+        Dependency_3: prefabs/common_ui
+        Dependency_4: character/lele
+        Dependency_5: sprites/common avator
+        Dependency_6: character/waterfairy
+        Dependency_7: vo/level 1
+        Dependency_8: fs017_day
+        Dependency_9: terrain/diffuse/ground & rocks 01
+        Dependency_10: pt_tree_trunk
+        Dependency_11: water
+        Dependency_12: sprites/level 1
+        Dependency_13: vo/common
+        Dependency_14: terrain/diffuse/ground 02
+        Dependency_15: terrain/trees/fruit_tree
+        Dependency_16: terrain/detail/brush_grass_01
+        Dependency_17: terrain/diffuse/grass0026
+    Info_38:
+      Name: level 3
+      Dependencies:
+        Dependency_0: vo/level 3
+        Dependency_1: sprites/commonui
+        Dependency_2: prefabs/common_ui
+        Dependency_3: character/lele
+        Dependency_4: sprites/common avator
+        Dependency_5: character/waterfairy
+        Dependency_6: terrain/trees/plum_tree
+        Dependency_7: sprites/level 3
+        Dependency_8: fs017_day
+        Dependency_9: vo/common
+        Dependency_10: terrain/terrain_data
+        Dependency_11: terrain/detail/brush_grass_01
+        Dependency_12: terrain/diffuse/grounds 03
+        Dependency_13: terrain/diffuse/grass0026
+    Info_39:
+      Name: terrain/detail/brush_flower
+      Dependencies: {}

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2338095869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6799bed7a59803eda049aa5ad6132e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Textures/MRLRockMediumA_AO.png
+Dependencies: []

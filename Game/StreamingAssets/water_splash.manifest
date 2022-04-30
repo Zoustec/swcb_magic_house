@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1961619981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4de6e2a6f2225145b9c0ad57a1383733
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ff0d134db1111474af77f72687033ff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/EffectExamples/Water Effects/Textures/SphereAlbedo.tif
+- Assets/EffectExamples/WaterEffects/Materials/WaterDropBig.mat
+- Assets/Audios/waterfall.mp3
+- Assets/EffectExamples/Water Effects/Materials/Splash.mat
+- Assets/EffectExamples/WaterEffects/Textures/SplatAlbedo.tif
+- Assets/EffectExamples/Water Effects/Textures/Splash01.tif
+- Assets/EffectExamples/Water Effects/Textures/SplatNormal.tif
+- Assets/EffectExamples/Water Effects/Materials/WaterDropSmall.mat
+- Assets/EffectExamples/WaterEffects/Prefabs/BigSplash.prefab
+- Assets/EffectExamples/Water Effects/Textures/Splash01Normal.tif
+Dependencies: []
