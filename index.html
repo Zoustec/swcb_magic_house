@@ -63,17 +63,16 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/MainMenu.loader.js";
+      var loaderUrl = buildUrl + "/WebRoot.loader.js";
       var config = {
-        dataUrl: buildUrl + "/MainMenu.data.unityweb",
-        frameworkUrl: buildUrl + "/MainMenu.framework.js.unityweb",
-        codeUrl: buildUrl + "/MainMenu.wasm.unityweb",
+        dataUrl: buildUrl + "/WebRoot.data.unityweb",
+        frameworkUrl: buildUrl + "/WebRoot.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebRoot.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Zoustec",
         productName: "swcb_magic_house",
         productVersion: "1.0",
         showBanner: unityShowBanner,
-		memoryUrl: buildUrl + "/Memory",
       };
 
       // By default Unity keeps WebGL canvas render target size matched with
