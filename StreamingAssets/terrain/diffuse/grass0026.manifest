@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2399329548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f6bd4b1ce8c047fe252be6f788c2cf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b1b996afefcdb43727f3042384e65d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Ground textures pack/Grass 0026/Grass0026.jpg
+- Assets/Terrains/TerrianLayers/Grass0026.terrainlayer
+Dependencies: []
